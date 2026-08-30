@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=Noto+Sans+Thai:wght@100..900&display=swap');
+@media screen and (max-width: 600px) {
+    header img{
+        width: 100%;
+        height: auto;
+    }
+}
+
+body{
+    background-color: #918484;
+    font-family: "Noto Sans Thai", sans-serif;
+}
+/* Style the header */
+header{
+    background-color: #ec8164;
+    height: 150px;
+    width: auto;
+}
+
+header img{
+    width: auto;
+    height: 150px;
+    padding-left: 60px;
+}
+header h3{
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    font-size: 30px;
+    margin-top: -150px;
+    font-size: 30px;
+    margin-left: -450px;
+    margin-bottom: 35px;
+}
+header p{
+    color: #ffffff;
+    text-align: center;
+    font-size: 20px;
+    margin-top: -40px;
+    margin-left: -420px;
+}
+
+section ul img{
+    width: 250px;
+    height: 400px;
+}
